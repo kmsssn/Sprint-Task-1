@@ -87,11 +87,11 @@
     background-color:rgb(107, 14, 14);
     height: 35px;
     width: 100px;
-    color: #ffffff;
+    color: white;
     border: 0px;
     padding: 10px;
 }
 .extras .extra button a{
     text-decoration: none;
-    color: #ffffff;
+    color: white;
 }
